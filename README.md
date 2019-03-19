@@ -3,6 +3,6 @@
 - We assume that test1's columns and test2's columns are the same.
 
 # output
-| column | column | column | 
+|  | A | B | 
 |:-------|-------:|:------:|
 |   a    |   b    |   c    |
